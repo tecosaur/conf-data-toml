@@ -1,0 +1,5 @@
+#+title: conf-data-toml-mode
+#+author: tecosaur
+
+Syntax highlighting and =isearch= integration for =DataToolkit.jl=-format =Data.toml=
+files.
